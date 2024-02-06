@@ -456,7 +456,7 @@
       "/U1_Vin": "POWER",
       "/U3_Vin": "POWER",
       "/U3_Vout": "POWER",
-      "Net-(D3-K)": "POWER",
+      "Net-(D4-K)": "POWER",
       "Net-(U3-DC)": "POWER",
       "VCC": "POWER"
     },
