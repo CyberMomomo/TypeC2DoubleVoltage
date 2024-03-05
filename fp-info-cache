@@ -1,4 +1,4 @@
-22025120382676142
+22043905579265761
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51681,6 +51681,13 @@ AAA_422-SMT
 2
 2
 Customer_Connector
+AAAx1_1
+
+
+0
+2
+2
+Customer_Connector
 AMASS_24.243
 
 
@@ -51765,6 +51772,13 @@ CH2060_6P
 12
 6
 Customer_Connector
+HB611_3P
+
+
+0
+3
+3
+Customer_Connector
 IDC-Header_2x05_P2.54mm_Vertical_SMD
 
 
@@ -51792,6 +51806,13 @@ MX_Key_Receptacle_TTC
 0
 2
 2
+Customer_Connector
+PCB-5A
+
+
+0
+6
+1
 Customer_Connector
 SMA-KE-2
 
@@ -51876,6 +51897,20 @@ XH2.54_01x05_Vertical_SMD
 0
 7
 6
+Customer_Connector
+XH2.54_2P_Vertical
+
+
+0
+2
+2
+Customer_Module
+K-CUT_HAW5-220D15B2
+
+
+0
+6
+6
 Customer_Normal
 PDFN-3X3
 
@@ -51905,6 +51940,13 @@ TO-220-3_Vertical_35x12.5x30_A
 3
 3
 Customer_Normal
+TO-247-3_Vertical_42x25_1
+
+
+0
+5
+4
+Customer_Normal
 VSSOP-20_5.1x3mm_P0.5mm
 
 
@@ -51933,6 +51975,20 @@ Capacitor_Aluminium_16x25
 2
 2
 Customer_Passive
+Capacitor_SMD_L11.4mm_W6.0mm
+
+
+0
+2
+2
+Customer_Passive
+FUSE_A600-150
+
+
+0
+2
+2
+Customer_Passive
 FUSE_JK600
 
 
@@ -51946,6 +52002,13 @@ Fuse_24E
 0
 2
 2
+Customer_Passive
+Inductor_Coupled_SQ1515_Vertical
+
+
+0
+4
+4
 Customer_Passive
 Inductor_Coupled_THT_Base_22x14x8
 
@@ -52003,6 +52066,13 @@ Inductor_Radial_D12.00mm_L16.00mm_P5.50mm
 2
 2
 Customer_Passive
+Inductor_Radial_D15.0mm_P7.50mm
+
+
+0
+2
+2
+Customer_Passive
 Inductor_THT_6x8
 
 
@@ -52032,6 +52102,13 @@ Potentiometer_RV09_Vertical
 4
 Customer_Passive
 Resistor_MHR0624SA
+
+
+0
+2
+2
+Customer_Passive
+Resistor_SLIM-MOX10403
 
 
 0
